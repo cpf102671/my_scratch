@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">我的刮刮樂MyScratch</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string-array name="maun_taiwan">
+        <item>刮刮樂首頁</item>
+        <item>NT$100</item>
+        <item>NT$200</item>
+        <item>NT$300</item>
+        <item>NT$500</item>
+        <item>NT$1000</item>
+        <item>NT$2000</item>
+        <item>實際機率排行</item>
+        <item>頭獎獎金最高</item>
+        <item>頭獎中獎率最高</item>
+        <item>推薦</item>
+    </string-array>
+</resources>
